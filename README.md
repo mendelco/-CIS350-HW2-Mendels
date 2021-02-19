@@ -1,9 +1,9 @@
 # -CIS350-HW2-Mendels
 ## Collin Mendels
 
-*Video Games
-*Music
-*Movies
+* Video Games
+* Music
+* Movies
 
 ### Technical Background
 
